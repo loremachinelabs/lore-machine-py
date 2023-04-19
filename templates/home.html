@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Upload a Text File</title>
+</head>
+<body>
+	<h1>Upload a Text File</h1>
+	<form action="{{ url_for('process') }}" method="POST" enctype="multipart/form-data">
+		<label for="inputfile">Select a Text File:</label>
+		<input type="file" id="inputfile" name="inputfile"><br><br>
+		<input type="submit" value="Submit">
+	</form>
+	<br>
+	<a href="{{ url_for('download_file') }}">Download Result File</a>
+</body>
+</html>

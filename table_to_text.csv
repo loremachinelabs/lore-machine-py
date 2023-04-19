@@ -1,0 +1,96 @@
+,Sentence,Characters,Location,Sentiment
+0,There were only two Americans stopping at the hotel.,,hotel,neutral
+1,They did not know any of the people they passed on the stairs on their way to and from their room.,,stairs,neutral
+2,Their room was on the second floor facing the sea.,,room,neutral
+3,It also faced the public garden and the war monument.,,public garden,neutral
+4,There were big palms and green benches in the public garden.,,public garden,neutral
+5,In the good weather there was always an artist with his easel.,,public garden,neutral
+6,Artists liked the way the palms grew and the bright colors of the hotels facing the gardens and the sea.,,public garden,positive
+7,Italians came from a long way off to look up at the war monument.,,war monument,neutral
+8,It was made of bronze and glistened in the rain.,,war monument,neutral
+9,It was raining.,,weather,negative
+10,The rain dripped from the palm trees.,,palm trees,neutral
+11,Water stood in pools on the gravel paths.,,gravel paths,neutral
+12,The sea broke in a long line in the rain and slipped back down the beach to come up and break again in a long line in the rain.,,sea,negative
+13,The motor cars were gone from the square by the war monument.,,square,neutral
+14,Across the square in the doorway of the cafe a waiter stood looking out of the empty square.,,square,neutral
+15,The American wife stood at the window looking out.,,window,neutral
+16,Outside right under their window a cat was crouched under one of the dripping green tables.,,window,positive
+17,“I’m. going down and get that kitty” the American wife said.,,hotel,positive
+18,“I’ll do it” her husband offered from the bed.,,hotel,neutral
+19,“No I’ll get it. The poor kitty out trying to keep dry under a table.”,,positive,
+20,The husband went on reading lying propped up with the two pillows at the foot of the bed.,,bed,neutral
+21,“Don’t get wet” he said.,,hotel,negative
+22,The wife went downstairs and the hotel owner stood up and bowed to her as she passed the office.,,hotel,positive
+23,His desk was at the far end of the office.,,hotel,neutral
+24,He was an old man and very tall.,,hotel,neutral
+25,“Il piove” the wife said. She liked the hotel-keeper.,hotel,positive,
+26,“Si si Signora brutto tempo. It is very bad weather.”,,negative,
+27,He stood behind his desk in the far end of the dim room.,,hotel,neutral
+28,The wife liked him.,,hotel,positive
+29,She liked the deadly serious way he received any complaints.,,hotel,positive
+30,She liked the way he wanted to serve her.,,hotel,positive
+31,She liked the way he felt about being a hotel-keeper.,,hotel,positive
+32,She liked his old heavy face and big hands.,,hotel,positive
+33,Liking him she opened the door and looked out.,,hotel,neutral
+34,It was raining harder.,,weather,negative
+35,A man in a rubber cape was crossing the empty square to the cafe.,,square,neutral
+36,The cat would be around to the right.,,hotel,neutral
+37,Perhaps she could go along under the eaves.,,hotel,neutral
+38,As she stood in the door-way an umbrella opened behind her.,,doorway,neutral
+39,It was the maid who looked after their room.,,maid,neutral
+40,“You must not get wet” she smiled speaking Italian.,,maid,positive
+41,Of course the hotel-keeper had sent her.,,hotel,neutral
+42,With the maid holding the umbrella over her she walked along the gravel path until she was under their window.,,gravel path,neutral
+43,The table was there washed bright green in the rain but the cat was gone.,,table,negative
+44,She was suddenly disappointed.,,emotions,negative
+45,The maid looked up at her.,,maid,neutral
+46,“Ha perduto qualque cosa Signora?”,,maid,neutral
+47,“There was a cat” said the American girl.,,window,positive
+48,“A cat?”,,maid,neutral
+49,“Si il gatto.”,,window,positive
+50,“A cat?” the maid laughed. “A cat in the rain?”,,maid,neutral
+51,“Yes” she said “under the table.” Then “Oh I wanted it so much. I wanted a kitty.”,,window,positive
+52,When she talked English the maid’s face tightened.,,maid,negative
+53,“Come Signira” she said. “We must get back inside. You will be wet.”,,maid,neutral
+54,“I suppose so” said the American girl.,,window,neutral
+55,They went back along the gravel path and passed in the door.,,gravel path,neutral
+56,The maid stayed outside to close the umbrella.,,maid,neutral
+57,As the American girl passed the office the padrone bowed from his desk.,,office,positive
+58,Something felt very small and tight inside the girl.,,emotions,negative
+59,The padrone made her feel very small and at the same time really important.,,padrone,neutral
+60,She had a momentary feeling of being of supreme importance.,,emotions,positive
+61,She went on up the stairs.,,stairs,neutral
+62,She opened the door of the room.,,room,neutral
+63,George was on the bed reading.,,bed,neutral
+64,“Did you get the cat?” he asked putting the book down.,,hotel,neutral
+65,“It was gone.”,,negative,
+66,“Wonder where it went to” he said resting his eyes from reading.,,hotel,neutral
+67,She sat down on the bed.,,bed,neutral
+68,“I wanted it so much” she said. “I don’t know why I wanted it so much. I wanted that poor kitty. It isn’t any fun to be a poor kitty out in the rain.”,,emotions,positive
+69,George was reading again.,,bed,neutral
+70,She went over and sat in front of the mirror of the dressing table looking at herself with the hand glass.,,mirror,neutral
+71,She studied her profile first one side and then the other.,,mirror,neutral
+72,Then she studied the back of her head and her neck.,,mirror,neutral
+73,“Don’t you think it would be a good idea if I let my hair grow out?” she asked looking at her profile again.,,mirror,neutral
+74,George looked up and saw the back of her neck clipped close like a boy’s.,,mirror,neutral
+75,“I like it the way it is.”,,neutral,
+76,“I get so tired of it” she said. “I get so tired of looking like a boy.”,,emotions,negative
+77,George shifted his position in the bed. He hadn’t looked away from her since she started to speak.,,bed,neutral
+78,“You look pretty darn nice” he said.,,neutral,
+79,She laid the mirror down on the dresser and went over to the window and looked out.,,window,neutral
+80,It was getting dark.,,weather,negative
+81,“I want to pull my hair back tight and smooth and make a big knot at the back that I can feel” she said. “I want to have a kitty to sit on my lap and purr when I stroke her.”,,emotions,positive
+82,“Yeah?” George said from the bed.,,bed,neutral
+83,“And I want to eat at a table with my own silver and I want candles. And I want it to be spring and I want to brush my hair out in front of a mirror and I want a kitty and I want some new clothes.”,,emotions,positive
+84,“Oh shut up and get something to read.” George said. He was reading again.,,bed,negative
+85,His wife was looking out of the window.,,window,neutral
+86,It was quite dark now and still raining in the palm trees.,,palm trees,negative
+87,“Anyway I want a cat” she said “I want a cat. I want a cat now. If I can’t have long hair or any fun I can have a cat.”,,emotions,positive
+88,George was not listening. He was reading his book.,,bed,neutral
+89,His wife looked out of the window where the light had come on in the square.,,window,neutral
+90,Someone knocked at the door.,,door,neutral
+91,“Avanti” George said. He looked up from his book.,,door,neutral
+92,In the doorway stood the maid.,,doorway,neutral
+93,She held a big tortoise-shell cat pressed tight against her and swung down against her body.,,maid,positive
+94,“Excuse me” she said “the padrone asked me to bring this for the Signora.”,,maid,positive
