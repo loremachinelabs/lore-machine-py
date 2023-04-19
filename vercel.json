@@ -15,5 +15,5 @@
       "dest": "app.py"
     }
   ],
-  "regions": ["usa"]
+  "regions": ["iad1"]
 }
